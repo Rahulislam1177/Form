@@ -1,0 +1,61 @@
+
+
+.maneFrom{
+    background-color: #f4f2f2;
+}
+.shortCut{
+    margin-top: 50px;
+background-color: #fdfdfd;
+width: 305px;
+height: 420px;
+margin-left: 50px;
+border-radius: 5px;
+margin-bottom: 200px;
+
+}
+.LinneCl{
+    width: 75px;
+    height: 3px;
+    background-color: #088dcd;
+    
+}
+.LinneC2{
+    width: 3px;
+    height: 80px;
+    background-color: #088dcd;
+}
+.backCol{
+    
+    margin-top: 50px;
+    background-color: #fdfdfd;
+    width: 305px;
+    height: 320px;
+    
+    margin-left: -20px;
+    padding-right: 400px;
+    border-radius: 5px;
+    margin-bottom: 200px;
+}
+
+.sectionmane{
+    margin-top: 50px;
+    background-color: #fdfdfd;
+    width: 750px;
+    height:820px;
+    
+    margin-left: 10%;
+  
+    border-radius: 5px;
+    margin-bottom: 200px;
+}
+.tranjasion {
+    border-color: #c7c7c6;
+    color: #c7c7c6;
+}
+.Emailfild{
+    padding-right: 72px;
+}
+.wMargin{
+    width: 600px;
+}
+
